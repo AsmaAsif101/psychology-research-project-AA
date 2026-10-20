@@ -13,3 +13,5 @@ This fictional psychology project explores how students' study habits may relate
 
 ## Privacy Reminder
 Personal records and identifiable participant data must not be uploaded to this repository.
+## Next step
+Prepare a draft project plan and review it with the team.
